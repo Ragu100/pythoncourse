@@ -1,5 +1,7 @@
 b=int(input())
 if b%2==0:
   print("Even")
-else
+elif
   print("Odd")
+else
+  print("Invalid")
