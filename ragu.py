@@ -1,4 +1,4 @@
-a=int(input("Enter The Value"))
+a=5
 if a>0:
   print("positive")
 else a<0:
