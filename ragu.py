@@ -1,5 +1,5 @@
 a=int(input("Enter The Value"))
 if a>0:
-  print("the value is positive")
+  print("positive")
 else a<0:
-  print("the value is negative")
+  print("negative")
